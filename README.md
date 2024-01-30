@@ -20,13 +20,13 @@ Githubpage:
 - 🎵🎶 Disfruta de la música de fondo mientras exploras el mundo del juego.
 - 🔊 Sonidos impactantes de recolección de estrellas y efectos de sonido únicos para la muerte.
 
-![Música de fondo y sonidos](https://github.com/ChristopherVelasco03/JuegoPlataformas/assets/155390541/b0241e29-b133-49a0-bb9c-2f2f87fe42d9)
+![Captura de pantalla 2024-01-29 205942](https://github.com/ChristopherVelasco03/EsquivaPokebolas/assets/155390541/dad57603-437e-4927-a822-fe8e32bad099)
 
 ### 4. Mensaje de Game Over y Reinicio Rápido
 - ☠️✉️ Recibe un mensaje claro de Game Over cuando pierdas.
 - 🔄 Reinicia rápidamente haciendo clic y continúa desafiando tus habilidades.
 
-![Mensaje de Game Over y Reinicio](https://github.com/ChristopherVelasco03/JuegoPlataformas/assets/155390541/dc924521-eab0-46f9-9d79-0d16be440937)
+![image](https://github.com/ChristopherVelasco03/EsquivaPokebolas/assets/155390541/0b68088c-c201-4d55-8015-c40d2b1f0432)
 
 ## Instrucciones de Juego
 
