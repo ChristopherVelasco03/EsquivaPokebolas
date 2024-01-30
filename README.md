@@ -30,7 +30,7 @@ Githubpage:
 
 ## Instrucciones de Juego
 
-1. **Recolecta Estrellas:** Acumula 100 puntos recolectando estrellas dispersas en el juego.
+1. **Recolecta Monedas:** Acumula 100 puntos recolectando estrellas dispersas en el juego.
 2. **Aumento de Dificultad:** Después de recolectar 12 estrellas, prepárate para enfrentar las Pokebolas.
 3. **Esquiva las Pokebolas:** ¡No dejes que te atrapen! Esquiva las Pokebolas en movimiento.
 4. **Reinicio Rápido:** Al recibir el mensaje de Game Over, reinicia rápidamente haciendo clic y continúa la aventura.
@@ -39,4 +39,4 @@ Githubpage:
 
 Si deseas contribuir al desarrollo de este juego o informar problemas, ¡siéntete libre de hacerlo! Estamos emocionados por hacer crecer este proyecto y hacerlo aún más emocionante.
 
-¡Diviértete jugando y alcanza el puntaje máximo en este emocionante juego de plataformas 2D! 🌟
+¡Diviértete jugando y alcanza el puntaje máximo en este emocionante juego de plataformas 2D! 🪙
