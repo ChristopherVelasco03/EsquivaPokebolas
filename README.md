@@ -14,7 +14,7 @@ Githubpage:
 - ⚠️ ¡No dejes que te atrapen! Las Pokebolas son enemigos que aparecen después de acumular 12 estrellas.
 - 📸 Visualiza las temibles Pokebolas que buscarán impedir tu avance.
 
-![Pokebolas como enemigos](https://github.com/ChristopherVelasco03/JuegoPlataformas/assets/155390541/7dec290c-284b-4be3-bfff-f09bcacab62a)
+![image](https://github.com/ChristopherVelasco03/EsquivaPokebolas/assets/155390541/e15bcaec-7c81-449e-80ad-cfeedcd50bd2)
 
 ### 3. Experiencia Musical Inmersiva
 - 🎵🎶 Disfruta de la música de fondo mientras exploras el mundo del juego.
